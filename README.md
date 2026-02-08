@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nick@Axxyl
-- 👀 I’m interested in mobile, front and back end applications
+- 👀 I’m interested in mobile application conversions
 - 🌱 I’m currently looking for obj c to kotlin freelance developers
 - 💞️ I’m looking to collaborate on converting obj c apps to kotlin
 - 📫 How to reach me email:nick@axxyl.com
